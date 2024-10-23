@@ -1,0 +1,7 @@
+C:\Users\elder.snovais\source\repos\quadrados de numeros\bin\Debug\quadrados de numeros.exe.config
+C:\Users\elder.snovais\source\repos\quadrados de numeros\bin\Debug\quadrados de numeros.exe
+C:\Users\elder.snovais\source\repos\quadrados de numeros\bin\Debug\quadrados de numeros.pdb
+C:\Users\elder.snovais\source\repos\quadrados de numeros\obj\Debug\quadrados de numeros.csproj.AssemblyReference.cache
+C:\Users\elder.snovais\source\repos\quadrados de numeros\obj\Debug\quadrados de numeros.csproj.CoreCompileInputs.cache
+C:\Users\elder.snovais\source\repos\quadrados de numeros\obj\Debug\quadrados de numeros.exe
+C:\Users\elder.snovais\source\repos\quadrados de numeros\obj\Debug\quadrados de numeros.pdb
